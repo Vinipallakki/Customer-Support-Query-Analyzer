@@ -1,0 +1,12 @@
+[
+  {"query": "I was charged twice for my subscription, please fix this."},
+  {"query": "My app keeps crashing when I try to upload a photo."},
+  {"query": "How can I update my payment method?"},
+  {"query": "I forgot my password and cannot log in."},
+  {"query": "The invoice I received is incorrect, it shows extra charges."},
+  {"query": "When will the new feature for exporting reports be available?"},
+  {"query": "The website is too slow when I try to checkout."},
+  {"query": "I want to cancel my account, what’s the process?"},
+  {"query": "The app is good but notifications are not working properly."},
+  {"query": "Can you explain why my credit card was declined?"}
+]
